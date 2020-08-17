@@ -1,5 +1,5 @@
 ## Important for this project
-Hello, this is a crud project with make it Laravel.
+Hello, this is a crud project with make it Laravel.<br>
 You can use to todo.sql file for database tables.
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
